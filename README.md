@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yunindyo Prabowo](https://ypraw.github.io) 👋
 
-- I’m currently working on [Macroad](https://surge.co.id/) as Backend Engineer
+- I’m currently working on [Codify](https://surge.co.id/) as Backend Engineer
 
 - I'm Linuxer, and i am currently using the Manjaro Linux Distribution with the KDE Plasma desktop environment
   - Looking for my config ??? [My Dotfiles](https://github.com/ypraw/configDotfiles)
