@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm [Yunindyo Prabowo](https://ypraw.github.io) 👋
 
-<!--
-**ypraw/ypraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on [Macroad](https://surge.co.id/) as Backend Engineer
 
-Here are some ideas to get you started:
+- I'm Linuxer, and i am currently using the Manjaro Linux Distribution with the KDE Plasma desktop environment
+  - Looking for my config ??? [My Dotfiles](https://github.com/ypraw/configDotfiles)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Ypraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypraw&show_icons=true&theme=radical)
+
+<a href="https://github.com/ypraw/ypraw">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ypraw&langs_count=8&theme=material-palenight" />
+</a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ypraw.visitor-badge)
