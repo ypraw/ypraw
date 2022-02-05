@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Yunindyo Prabowo](https://ypraw.github.io) 👋
 
-- I’m currently working on [Codify](https://surge.co.id/) as Software Engineer
+- I’m currently working on [Lion Parcel ](https://lionparcel.com/) as Data Engineer
 
 - I'm Linuxer, and i am currently using the Manjaro Linux Distribution with the KDE Plasma desktop environment
   - Looking for my dotfiles config ??? [Click Me](https://github.com/ypraw/configDotfiles)
